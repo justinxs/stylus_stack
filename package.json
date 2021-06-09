@@ -1,0 +1,22 @@
+{
+  "name": "stylus_stack",
+  "version": "1.0.0",
+  "description": "learn stylus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinxs/stylus_stack.git"
+  },
+  "keywords": [
+    "stylus"
+  ],
+  "author": "Justin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinxs/stylus_stack/issues"
+  },
+  "homepage": "https://github.com/justinxs/stylus_stack#readme"
+}
